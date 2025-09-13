@@ -23,7 +23,7 @@ An interactive Python application for visualizing and comparing pathfinding algo
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/pathfinding-visualizer.git](https://github.com/your-username/pathfinding-visualizer.git)
+    git clone [https://github.com/shashwat-158/Heuristic-Search-Algorithm-Analysis-Platform.git](https://github.com/shashwat-158/Heuristic-Search-Algorithm-Analysis-Platform.git)
     ```
 2.  Navigate into the project directory:
     ```bash
